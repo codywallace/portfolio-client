@@ -24,7 +24,7 @@ export default function Page() {
         and help users navigate the complexities of international development finance and digital governance.`}
       </p>
       <div className="my-8">
-        <BlogPosts />
+        {/*<BlogPosts />*/}
       </div>
     </section>
   )
