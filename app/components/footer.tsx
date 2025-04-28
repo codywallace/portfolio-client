@@ -26,7 +26,7 @@ export default function Footer() {
             target="_blank"
             href="/rss"
           >
-            <ArrowIcon />
+            {/*<ArrowIcon />
             <p className="ml-2 h-7">rss</p>
           </a>
         </li>
@@ -36,7 +36,7 @@ export default function Footer() {
             rel="noopener noreferrer"
             target="_blank"
             href="https://www.linkedin.com/in/codywallace/"
-          >
+          >*/}
             <ArrowIcon />
             <p className="ml-2 h-7">linkedin</p>
           </a>

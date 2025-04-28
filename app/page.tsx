@@ -6,7 +6,7 @@ export default function Page() {
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter"> CodyWallace.dev | My Portfolio
       </h1> 
       <p className="mb-4">
-        {`I'm a software engineer and economist specializing in public finance and digital governance. 
+        {`I'm a economist and software engineer specializing in public finance and digital governance. 
         With over a decade of experience at the intersection of digital transformation 
         and global development, my work has taken me through multilateral organizations 
         and development financing networks, where I’ve led efforts to enhance aid coordination, 
